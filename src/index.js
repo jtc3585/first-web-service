@@ -30,7 +30,7 @@ const indexPage = `
 const errorPage = `
 <html>
     <head>
-        <title>404 - File Not Found!</title>
+        <title>404 - File Not Found!!!</title>
     </head>
     <body>
         <h1>404 - File Not Found!</h1>
